@@ -57,7 +57,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="25.53656"
+     inkscape:cx="17.54733"
      inkscape:cy="54.039666"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -67,8 +67,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
      inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -176,7 +176,8 @@
     </g>
     <g
        id="g3255"
-       inkscape:transform-center-y="25">
+       transform="matrix(-1,0,0,-1,115.95423,2004.7194)"
+       inkscape:transform-center-y="-24.999969">
       <rect
          y="1002.3597"
          x="51.977112"
@@ -216,12 +217,12 @@
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans"
        x="77.472816"
-       y="1047.3596"
+       y="965.22968"
        id="text3860"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="77.472816"
-         y="1047.3596"
+         y="965.22968"
          id="tspan3864">795</tspan></text>
     <g
        id="g4047"
@@ -314,11 +315,11 @@
        sodipodi:cy="27.5"
        sodipodi:rx="12.5"
        sodipodi:ry="12.5"
-       d="m 50,27.5 a 12.5,12.5 0 1 1 -25,0 12.5,12.5 0 1 1 25,0 z"
+       d="M 50,27.5 C 50,34.403559 44.403559,40 37.5,40 30.596441,40 25,34.403559 25,27.5 25,20.596441 30.596441,15 37.5,15 44.403559,15 50,20.596441 50,27.5 z"
        transform="matrix(0,1.16,-1.16,0,104.87671,943.85932)" />
     <path
        transform="matrix(0,1.16,-1.16,0,74.876697,943.85932)"
-       d="m 50,27.5 a 12.5,12.5 0 1 1 -25,0 12.5,12.5 0 1 1 25,0 z"
+       d="M 50,27.5 C 50,34.403559 44.403559,40 37.5,40 30.596441,40 25,34.403559 25,27.5 25,20.596441 30.596441,15 37.5,15 44.403559,15 50,20.596441 50,27.5 z"
        sodipodi:ry="12.5"
        sodipodi:rx="12.5"
        sodipodi:cy="27.5"
@@ -334,11 +335,11 @@
        sodipodi:cy="27.5"
        sodipodi:rx="12.5"
        sodipodi:ry="12.5"
-       d="m 50,27.5 a 12.5,12.5 0 1 1 -25,0 12.5,12.5 0 1 1 25,0 z"
+       d="M 50,27.5 C 50,34.403559 44.403559,40 37.5,40 30.596441,40 25,34.403559 25,27.5 25,20.596441 30.596441,15 37.5,15 44.403559,15 50,20.596441 50,27.5 z"
        transform="matrix(0,1.16,-1.16,0,74.876688,973.85933)" />
     <path
        transform="matrix(0,1.16,-1.16,0,104.87669,973.85933)"
-       d="m 50,27.5 a 12.5,12.5 0 1 1 -25,0 12.5,12.5 0 1 1 25,0 z"
+       d="M 50,27.5 C 50,34.403559 44.403559,40 37.5,40 30.596441,40 25,34.403559 25,27.5 25,20.596441 30.596441,15 37.5,15 44.403559,15 50,20.596441 50,27.5 z"
        sodipodi:ry="12.5"
        sodipodi:rx="12.5"
        sodipodi:cy="27.5"
@@ -366,12 +367,12 @@
     <text
        sodipodi:linespacing="100%"
        id="text4043"
-       y="966.37769"
+       y="1046.3777"
        x="30.153643"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans Bold"
        xml:space="preserve"><tspan
          style="font-size:14px"
-         y="966.37769"
+         y="1046.3777"
          x="30.153643"
          id="tspan4045"
          sodipodi:role="line">Ipswich</tspan></text>
