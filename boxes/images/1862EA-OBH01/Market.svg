@@ -11,7 +11,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="1862EA-stock-market.svg"
+   sodipodi:docname="Market.svg"
    inkscape:version="0.48.5 r10040"
    version="1.1"
    id="svg2"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3248948"
-     inkscape:cx="299.9248"
+     inkscape:cx="135.04726"
      inkscape:cy="119.39213"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -70,14 +70,15 @@
        id="rect6014"
        style="fill:#d5e5ff;stroke:#000000;stroke-width:1.45317054;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <rect
-       y="946.08881"
-       x="1687.7266"
-       height="101.54683"
-       width="50.546829"
+       y="945.87909"
+       x="1687.5168"
+       height="50.96624"
+       width="50.96624"
        id="rect5470"
-       style="fill:#ffdd55;stroke:#000000;stroke-width:1.45317054;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#ffdd55;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <g
-       id="g6002">
+       id="g6002"
+       transform="translate(26,0)">
       <path
          transform="matrix(1.0165746,0,0,1.015873,-0.91160221,-16.225122)"
          d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
@@ -108,7 +109,7 @@
              height="120" /></flowRegion><flowPara
            id="flowPara4529">7</flowPara></flowRoot>    </g>
     <path
-       transform="matrix(1.0165746,0,0,1.015873,50.088398,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,76.088398,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path4588"
@@ -119,7 +120,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="80.516876"
+       x="106.51688"
        height="50.96624"
        width="50.966244"
        id="rect4590"
@@ -128,7 +129,7 @@
        id="flowRoot4592"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(51,0)"><flowRegion
+       transform="translate(77,0)"><flowRegion
          id="flowRegion4594"><use
            id="use4596"
            xlink:href="#path4503"
@@ -145,19 +146,19 @@
        id="path4602"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,101.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,127.0884,-16.225122)" />
     <rect
        style="fill:#e5ff80;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4604"
        width="50.966244"
        height="50.96624"
-       x="131.51688"
+       x="157.51688"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot4606"
-       transform="translate(102,0)"><flowRegion
+       transform="translate(128,0)"><flowRegion
          id="flowRegion4608"><use
            height="120"
            width="2000"
@@ -253,7 +254,7 @@
            width="2000"
            height="120" /></flowRegion><flowPara
          id="flowPara4700">36</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,152.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,178.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path4742"
@@ -264,7 +265,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="182.51688"
+       x="208.51688"
        height="50.96624"
        width="50.966244"
        id="rect4744"
@@ -273,7 +274,7 @@
        id="flowRoot4746"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(153,0)"><flowRegion
+       transform="translate(179,0)"><flowRegion
          id="flowRegion4748"><use
            id="use4750"
            xlink:href="#path4503"
@@ -290,16 +291,16 @@
        id="path4754"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,203.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,229.0884,-16.225122)" />
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4756"
        width="50.966244"
        height="50.96624"
-       x="233.51688"
+       x="259.51688"
        y="996.87909" />
     <flowRoot
-       transform="translate(204,0)"
+       transform="translate(230,0)"
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot4758"><flowRegion
@@ -311,7 +312,7 @@
            xlink:href="#path4503"
            id="use4762" /></flowRegion><flowPara
          id="flowPara5880">47</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,254.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,280.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path4766"
@@ -322,13 +323,13 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="284.51688"
+       x="310.51688"
        height="50.96624"
        width="50.966244"
        id="rect4768"
        style="fill:#ffffff;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
-       transform="translate(255,0)"
+       transform="translate(281,0)"
        id="flowRoot4770"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"><flowRegion
@@ -435,19 +436,19 @@
        id="path4816"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,305.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,331.0884,-16.225122)" />
     <rect
        style="fill:#ffeeaa;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4818"
        width="50.966244"
        height="50.96624"
-       x="335.51688"
+       x="361.51688"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot4820"
-       transform="translate(306,0)"><flowRegion
+       transform="translate(332,0)"><flowRegion
          id="flowRegion4822"><use
            height="120"
            width="2000"
@@ -456,7 +457,7 @@
            xlink:href="#path4503"
            id="use4824" /></flowRegion><flowPara
          id="flowPara5888">56</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,356.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,382.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path4828"
@@ -467,7 +468,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="386.51688"
+       x="412.51688"
        height="50.96624"
        width="50.966244"
        id="rect4830"
@@ -476,7 +477,7 @@
        id="flowRoot4832"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(357,0)"><flowRegion
+       transform="translate(383,0)"><flowRegion
          id="flowRegion4834"><use
            id="use4836"
            xlink:href="#path4503"
@@ -493,19 +494,19 @@
        id="path4840"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,407.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,433.0884,-16.225122)" />
     <rect
        style="fill:#ffeeaa;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4842"
        width="50.966244"
        height="50.96624"
-       x="437.51688"
+       x="463.51688"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot4844"
-       transform="translate(408,0)"><flowRegion
+       transform="translate(434,0)"><flowRegion
          id="flowRegion4846"><use
            height="120"
            width="2000"
@@ -601,7 +602,7 @@
            width="2000"
            height="120" /></flowRegion><flowPara
          id="flowPara5902">68</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,458.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,484.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path4890"
@@ -612,7 +613,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="488.51688"
+       x="514.51685"
        height="50.96624"
        width="50.966244"
        id="rect4892"
@@ -621,7 +622,7 @@
        id="flowRoot4894"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(459,0)"><flowRegion
+       transform="translate(485,0)"><flowRegion
          id="flowRegion4896"><use
            id="use4898"
            xlink:href="#path4503"
@@ -638,16 +639,16 @@
        id="path4902"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,509.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,535.0884,-16.225122)" />
     <rect
        style="fill:#ffeeaa;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4904"
        width="50.966244"
        height="50.96624"
-       x="539.51685"
+       x="565.51685"
        y="996.87909" />
     <flowRoot
-       transform="translate(510,0)"
+       transform="translate(536,0)"
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot4906"><flowRegion
@@ -659,7 +660,7 @@
            xlink:href="#path4503"
            id="use4910" /></flowRegion><flowPara
          id="flowPara5908">78</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,560.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,586.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path4914"
@@ -670,13 +671,13 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="590.51685"
+       x="616.51685"
        height="50.96624"
        width="50.966244"
        id="rect4916"
        style="fill:#ffeeaa;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
-       transform="translate(561,0)"
+       transform="translate(587,0)"
        id="flowRoot4918"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"><flowRegion
@@ -783,19 +784,19 @@
        id="path4964"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,611.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,637.0884,-16.225122)" />
     <rect
        style="fill:#ffeeaa;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4966"
        width="50.966244"
        height="50.96624"
-       x="641.51691"
+       x="667.51691"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot4968"
-       transform="translate(612,0)"><flowRegion
+       transform="translate(638,0)"><flowRegion
          id="flowRegion4970"><use
            height="120"
            width="2000"
@@ -804,7 +805,7 @@
            xlink:href="#path4503"
            id="use4972" /></flowRegion><flowPara
          id="flowPara5916">95</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,662.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,688.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path4976"
@@ -815,7 +816,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="692.51685"
+       x="718.51685"
        height="50.96624"
        width="50.966244"
        id="rect4978"
@@ -824,7 +825,7 @@
        id="flowRoot4980"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(663,0)"><flowRegion
+       transform="translate(689,0)"><flowRegion
          id="flowRegion4982"><use
            id="use4984"
            xlink:href="#path4503"
@@ -841,19 +842,19 @@
        id="path4988"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,713.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,739.0884,-16.225122)" />
     <rect
        style="fill:#ffeeaa;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4990"
        width="50.966244"
        height="50.96624"
-       x="743.51685"
+       x="769.51685"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot4992"
-       transform="translate(714,0)"><flowRegion
+       transform="translate(740,0)"><flowRegion
          id="flowRegion4994"><use
            height="120"
            width="2000"
@@ -949,7 +950,7 @@
            width="2000"
            height="120" /></flowRegion><flowPara
          id="flowPara5926">122</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,764.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,790.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path5038"
@@ -960,7 +961,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="794.51691"
+       x="820.51691"
        height="50.96624"
        width="50.966244"
        id="rect5040"
@@ -969,7 +970,7 @@
        id="flowRoot5042"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(765,0)"><flowRegion
+       transform="translate(791,0)"><flowRegion
          id="flowRegion5044"><use
            id="use5046"
            xlink:href="#path4503"
@@ -986,16 +987,16 @@
        id="path5050"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,815.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,841.0884,-16.225122)" />
     <rect
        style="fill:#ffeeaa;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5052"
        width="50.966244"
        height="50.96624"
-       x="845.51685"
+       x="871.51685"
        y="996.87909" />
     <flowRoot
-       transform="translate(816,0)"
+       transform="translate(842,0)"
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot5054"><flowRegion
@@ -1007,7 +1008,7 @@
            xlink:href="#path4503"
            id="use5058" /></flowRegion><flowPara
          id="flowPara5934">142</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,866.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,892.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path5062"
@@ -1018,13 +1019,13 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="896.51685"
+       x="922.51685"
        height="50.96624"
        width="50.966244"
        id="rect5064"
        style="fill:#ffeeaa;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
-       transform="translate(867,0)"
+       transform="translate(893,0)"
        id="flowRoot5066"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"><flowRegion
@@ -1131,19 +1132,19 @@
        id="path5112"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,917.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,943.0884,-16.225122)" />
     <rect
        style="fill:#ffeeaa;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5114"
        width="50.966244"
        height="50.96624"
-       x="947.51691"
+       x="973.51691"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot5116"
-       transform="translate(918,0)"><flowRegion
+       transform="translate(944,0)"><flowRegion
          id="flowRegion5118"><use
            height="120"
            width="2000"
@@ -1152,7 +1153,7 @@
            xlink:href="#path4503"
            id="use5120" /></flowRegion><flowPara
          id="flowPara5942">174</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,968.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,994.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path5124"
@@ -1163,7 +1164,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="998.51685"
+       x="1024.5168"
        height="50.96624"
        width="50.966244"
        id="rect5126"
@@ -1172,7 +1173,7 @@
        id="flowRoot5128"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(969,0)"><flowRegion
+       transform="translate(995,0)"><flowRegion
          id="flowRegion5130"><use
            id="use5132"
            xlink:href="#path4503"
@@ -1189,19 +1190,19 @@
        id="path5136"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,1019.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,1045.0884,-16.225122)" />
     <rect
        style="fill:#e5ff80;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5138"
        width="50.966244"
        height="50.96624"
-       x="1049.5168"
+       x="1075.5168"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot5140"
-       transform="translate(1020,0)"><flowRegion
+       transform="translate(1046,0)"><flowRegion
          id="flowRegion5142"><use
            height="120"
            width="2000"
@@ -1297,7 +1298,7 @@
            width="2000"
            height="120" /></flowRegion><flowPara
          id="flowPara5952">220</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,1070.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,1096.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path5186"
@@ -1308,7 +1309,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="1100.5168"
+       x="1126.5168"
        height="50.96624"
        width="50.966244"
        id="rect5188"
@@ -1317,7 +1318,7 @@
        id="flowRoot5190"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(1071,0)"><flowRegion
+       transform="translate(1097,0)"><flowRegion
          id="flowRegion5192"><use
            id="use5194"
            xlink:href="#path4503"
@@ -1334,16 +1335,16 @@
        id="path5198"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,1121.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,1147.0884,-16.225122)" />
     <rect
        style="fill:#e5ff80;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5200"
        width="50.966244"
        height="50.96624"
-       x="1151.5168"
+       x="1177.5168"
        y="996.87909" />
     <flowRoot
-       transform="translate(1122,0)"
+       transform="translate(1148,0)"
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot5202"><flowRegion
@@ -1355,7 +1356,7 @@
            xlink:href="#path4503"
            id="use5206" /></flowRegion><flowPara
          id="flowPara5958">260</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,1172.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,1198.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path5210"
@@ -1366,13 +1367,13 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="1202.5168"
+       x="1228.5168"
        height="50.96624"
        width="50.966244"
        id="rect5212"
        style="fill:#e5ff80;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
-       transform="translate(1173,0)"
+       transform="translate(1199,0)"
        id="flowRoot5214"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"><flowRegion
@@ -1479,19 +1480,19 @@
        id="path5260"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,1223.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,1249.0884,-16.225122)" />
     <rect
        style="fill:#e5ff80;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5262"
        width="50.966244"
        height="50.96624"
-       x="1253.5168"
+       x="1279.5168"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot5264"
-       transform="translate(1224,0)"><flowRegion
+       transform="translate(1250,0)"><flowRegion
          id="flowRegion5266"><use
            height="120"
            width="2000"
@@ -1500,7 +1501,7 @@
            xlink:href="#path4503"
            id="use5268" /></flowRegion><flowPara
          id="flowPara5966">330</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,1274.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,1300.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path5272"
@@ -1511,7 +1512,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="1304.5168"
+       x="1330.5168"
        height="50.96624"
        width="50.966244"
        id="rect5274"
@@ -1520,7 +1521,7 @@
        id="flowRoot5276"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(1275,0)"><flowRegion
+       transform="translate(1301,0)"><flowRegion
          id="flowRegion5278"><use
            id="use5280"
            xlink:href="#path4503"
@@ -1537,19 +1538,19 @@
        id="path5284"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,1325.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,1351.0884,-16.225122)" />
     <rect
        style="fill:#aade87;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5286"
        width="50.966244"
        height="50.96624"
-       x="1355.5168"
+       x="1381.5168"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot5288"
-       transform="translate(1326,0)"><flowRegion
+       transform="translate(1352,0)"><flowRegion
          id="flowRegion5290"><use
            height="120"
            width="2000"
@@ -1645,7 +1646,7 @@
            width="2000"
            height="120" /></flowRegion><flowPara
          id="flowPara5976">460</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,1376.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,1402.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path5334"
@@ -1656,7 +1657,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="1406.5168"
+       x="1432.5168"
        height="50.96624"
        width="50.966244"
        id="rect5336"
@@ -1665,7 +1666,7 @@
        id="flowRoot5338"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(1377,0)"><flowRegion
+       transform="translate(1403,0)"><flowRegion
          id="flowRegion5340"><use
            id="use5342"
            xlink:href="#path4503"
@@ -1682,16 +1683,16 @@
        id="path5346"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,1427.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,1453.0884,-16.225122)" />
     <rect
        style="fill:#aade87;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5348"
        width="50.966244"
        height="50.96624"
-       x="1457.5168"
+       x="1483.5168"
        y="996.87909" />
     <flowRoot
-       transform="translate(1428,0)"
+       transform="translate(1454,0)"
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot5350"><flowRegion
@@ -1703,7 +1704,7 @@
            xlink:href="#path4503"
            id="use5354" /></flowRegion><flowPara
          id="flowPara5982">570</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,1478.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,1504.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path5358"
@@ -1714,13 +1715,13 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="1508.5168"
+       x="1534.5168"
        height="50.96624"
        width="50.966244"
        id="rect5360"
        style="fill:#aade87;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
-       transform="translate(1479,0)"
+       transform="translate(1505,0)"
        id="flowRoot5362"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"><flowRegion
@@ -1827,19 +1828,19 @@
        id="path5408"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,1529.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,1555.0884,-16.225122)" />
     <rect
        style="fill:#aade87;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5410"
        width="50.966244"
        height="50.96624"
-       x="1559.5168"
+       x="1585.5168"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot5412"
-       transform="translate(1530,0)"><flowRegion
+       transform="translate(1556,0)"><flowRegion
          id="flowRegion5414"><use
            height="120"
            width="2000"
@@ -1848,7 +1849,7 @@
            xlink:href="#path4503"
            id="use5416" /></flowRegion><flowPara
          id="flowPara5990">750</flowPara></flowRoot>    <path
-       transform="matrix(1.0165746,0,0,1.015873,1580.0884,-16.225122)"
+       transform="matrix(1.0165746,0,0,1.015873,1606.0884,-16.225122)"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
        inkscape:href="#rect4501"
        id="path5420"
@@ -1859,7 +1860,7 @@
        sodipodi:type="inkscape:offset" />
     <rect
        y="996.87909"
-       x="1610.5168"
+       x="1636.5168"
        height="50.96624"
        width="50.966244"
        id="rect5422"
@@ -1868,7 +1869,7 @@
        id="flowRoot5424"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        xml:space="preserve"
-       transform="translate(1581,0)"><flowRegion
+       transform="translate(1607,0)"><flowRegion
          id="flowRegion5426"><use
            id="use5428"
            xlink:href="#path4503"
@@ -1885,19 +1886,19 @@
        id="path5432"
        inkscape:href="#rect4501"
        d="m 32.375,999.71875 0,45.28125 45.25,0 0,-45.28125 -45.25,0 z"
-       transform="matrix(1.0165746,0,0,1.015873,1631.0884,-16.225122)" />
+       transform="matrix(1.0165746,0,0,1.015873,1657.0884,-16.225122)" />
     <rect
        style="fill:#aade87;stroke:#000000;stroke-width:1.0337584;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5434"
        width="50.966244"
        height="50.96624"
-       x="1661.5168"
+       x="1687.5168"
        y="996.87909" />
     <flowRoot
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Serif;-inkscape-font-specification:Droid Serif"
        id="flowRoot5436"
-       transform="translate(1632,0)"><flowRegion
+       transform="translate(1658,0)"><flowRegion
          id="flowRegion5438"><use
            height="120"
            width="2000"
