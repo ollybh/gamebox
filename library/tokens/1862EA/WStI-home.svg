@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="30"
    height="30"
@@ -17,6 +18,7 @@
        id="clipPath3883">
       <path
          d="m 30.809653,15.226519 a 15.278557,15.278557 0 1 1 -30.55711337,0 15.278557,15.278557 0 1 1 30.55711337,0 z"
+         inkscape:connector-curvature="0"
          transform="matrix(0.98176812,0,0,0.98176812,-0.24793536,1022.4133)"
          id="path3885"
          style="color:#000000;fill:#a52d84;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
@@ -25,6 +27,7 @@
        id="clipPath4012">
       <path
          d="m 30.809653,15.226519 a 15.278557,15.278557 0 1 1 -30.55711337,0 15.278557,15.278557 0 1 1 30.55711337,0 z"
+         inkscape:connector-curvature="0"
          transform="matrix(0.98176812,0,0,0.98176812,-0.24793536,1022.4133)"
          id="path4014"
          style="color:#000000;fill:#a52d84;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
@@ -33,6 +36,7 @@
        id="clipPath4016">
       <path
          d="m 30.809653,15.226519 a 15.278557,15.278557 0 1 1 -30.55711337,0 15.278557,15.278557 0 1 1 30.55711337,0 z"
+         inkscape:connector-curvature="0"
          transform="matrix(0.98176812,0,0,0.98176812,-0.24793536,1022.4133)"
          id="path4018"
          style="color:#000000;fill:#a52d84;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
@@ -46,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,6 +59,7 @@
      id="layer1">
     <path
        d="m 30.809653,15.226519 a 15.278557,15.278557 0 1 1 -30.55711337,0 15.278557,15.278557 0 1 1 30.55711337,0 z"
+       inkscape:connector-curvature="0"
        transform="matrix(0.98176812,0,0,0.98176812,-0.24793536,1022.4133)"
        id="path3089"
        style="color:#000000;fill:#a52d84;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />

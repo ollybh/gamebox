@@ -7,40 +7,18 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="30"
    height="30"
-   id="svg3081"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="WNR-back.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3282"
-     showgrid="false"
-     inkscape:zoom="7.8666667"
-     inkscape:cx="15"
-     inkscape:cy="15"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3081" />
+   id="svg3081">
   <defs
      id="defs3083">
     <clipPath
        id="clipPath3883">
       <path
          d="m 30.809653,15.226519 a 15.278557,15.278557 0 1 1 -30.55711337,0 15.278557,15.278557 0 1 1 30.55711337,0 z"
+         inkscape:connector-curvature="0"
          transform="matrix(0.98176812,0,0,0.98176812,-0.24793536,1022.4133)"
          id="path3885"
          style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
@@ -49,6 +27,7 @@
        id="clipPath4012">
       <path
          d="m 30.809653,15.226519 a 15.278557,15.278557 0 1 1 -30.55711337,0 15.278557,15.278557 0 1 1 30.55711337,0 z"
+         inkscape:connector-curvature="0"
          transform="matrix(0.98176812,0,0,0.98176812,-0.24793536,1022.4133)"
          id="path4014"
          style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
@@ -57,6 +36,7 @@
        id="clipPath4016">
       <path
          d="m 30.809653,15.226519 a 15.278557,15.278557 0 1 1 -30.55711337,0 15.278557,15.278557 0 1 1 30.55711337,0 z"
+         inkscape:connector-curvature="0"
          transform="matrix(0.98176812,0,0,0.98176812,-0.24793536,1022.4133)"
          id="path4018"
          style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
@@ -79,6 +59,7 @@
      id="layer1">
     <path
        d="m 30.809653,15.226519 a 15.278557,15.278557 0 1 1 -30.55711337,0 15.278557,15.278557 0 1 1 30.55711337,0 z"
+       inkscape:connector-curvature="0"
        transform="matrix(0.98176812,0,0,0.98176812,-0.24793536,1022.4133)"
        id="path3089"
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
@@ -95,9 +76,7 @@
        y="1040.9447"
        id="text3887"
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:URW Bookman L Bold"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:URW Bookman L Bold"><tspan
          id="tspan3281">WNR</tspan></text>
   </g>
 </svg>
