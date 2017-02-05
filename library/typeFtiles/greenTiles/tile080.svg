@@ -71,7 +71,7 @@
        y="96.869049"
        id="tspan5423">80</tspan></text>
   <path
-     d="M 14.849365,75.490381 59,50 101.65064,74.624356"
+     d="M 14.849365,75.490381 58,50 101.65064,74.624356"
      id="path5145"
      style="fill:none" />
   <use
@@ -103,7 +103,7 @@
      id="tile_border"
      style="fill:none;stroke:#000000;stroke-width:0.99992824;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <path
-     d="M 59,100 59,50"
+     d="M 58,100 58,50"
      id="path5145-7"
      style="fill:none" />
 </svg>

@@ -71,7 +71,7 @@
        y="96.869049"
        id="tspan5249">84</tspan></text>
   <path
-     d="M 14.849365,75.490381 59,50 101.65064,74.624356"
+     d="M 14.849365,75.490381 58,50 101.65064,74.624356"
      id="path5145"
      style="fill:none" />
   <use
@@ -108,7 +108,7 @@
      xlink:href="#path5145" />
   <use
      id="use5151"
-     style="stroke:#ffffff;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0"
+     style="stroke:#ffffff;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0.8"
      x="0"
      y="0"
      width="116"
@@ -119,7 +119,7 @@
      id="tile_border"
      style="fill:none;stroke:#000000;stroke-width:0.99992824;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <path
-     d="M 59,100 59,50"
+     d="M 58,100 58,50"
      id="path5145-7"
      style="fill:none" />
 </svg>
