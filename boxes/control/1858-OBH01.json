@@ -5,9 +5,9 @@
 	"board": {
 		"imgLoc": "images/1858-OBH01/1858-map.png",
 		"orientation": "F",
-		"xStart":  29,
+		"xStart":  28,
 		"xStep":   87,
-		"yStart":  74,
+		"yStart":  73,
 		"yStep":   50
 	},
 	"market": {
