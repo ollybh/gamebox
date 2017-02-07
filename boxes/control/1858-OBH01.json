@@ -7,7 +7,7 @@
 		"orientation": "F",
 		"xStart":  29,
 		"xStep":   87,
-		"yStart":  24,
+		"yStart":  74,
 		"yStep":   50
 	},
 	"market": {
@@ -297,7 +297,7 @@
 		"ySize":  100,
 		"yStep":  120,
 		"tile": [
-			{ "dups": 1, "rots": 1 },
+			{ "dups": 2, "rots": 1 },
 			{ "dups": 1, "rots": 1 },
 			{ "dups": 1, "rots": 1 },
 			{ "dups": 1, "rots": 1 }
@@ -312,14 +312,14 @@
 		"ySize":  30,
 		"yStep":  40,
 		"token": [
-			{ "dups": 7, "flip": false },
-			{ "dups": 7, "flip": false },
-			{ "dups": 7, "flip": false },
-			{ "dups": 7, "flip": false },
-			{ "dups": 7, "flip": false },
-			{ "dups": 7, "flip": false },
-			{ "dups": 7, "flip": false },
-			{ "dups": 7, "flip": false }
+			{ "dups": 3, "flip": false },
+			{ "dups": 3, "flip": false },
+			{ "dups": 3, "flip": false },
+			{ "dups": 3, "flip": false },
+			{ "dups": 3, "flip": false },
+			{ "dups": 3, "flip": false },
+			{ "dups": 3, "flip": false },
+			{ "dups": 3, "flip": false }
 		] }, {
 		"type": "mtok",
 		"tName": "Tokens",
