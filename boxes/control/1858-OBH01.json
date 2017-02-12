@@ -94,7 +94,7 @@
 			{ "dups": 1, "rots": 3 }
 		] }, {
 		"type": "tile",
-		"tName": "Green std gauge track",
+		"tName": "Green track tiles, standard gauge",
 		"imgLoc": "images/1858-OBH01/1858-green-track-standard.png",
 		"xStart":  20,
 		"xSize":  116,
@@ -109,7 +109,7 @@
 			{ "dups": 4, "rots": 6 }
 		] }, {
 		"type": "tile",
-		"tName": "Green narrow gauge track",
+		"tName": "Green track tiles, narrow gauge",
 		"imgLoc": "images/1858-OBH01/1858-green-track-narrow.png",
 		"xStart":  20,
 		"xSize":  116,
@@ -124,7 +124,7 @@
 			{ "dups": 2, "rots": 6 }
 		] }, {
 		"type": "tile",
-		"tName": "Green mixed gauge track",
+		"tName": "Green track tiles, mixed gauge",
 		"imgLoc": "images/1858-OBH01/1858-green-track-mixed.png",
 		"xStart":  20,
 		"xSize":  116,
@@ -141,7 +141,7 @@
 			{ "dups": 1, "rots": 3 }
 		] }, {
 		"type": "tile",
-		"tName": "Green std gauge towns",
+		"tName": "Green town tiles, standard gauge",
 		"imgLoc": "images/1858-OBH01/1858-green-towns-standard.png",
 		"xStart":  20,
 		"xSize":  116,
@@ -155,7 +155,7 @@
 			{ "dups": 4, "rots": 6 }
 		] }, {
 		"type": "tile",
-		"tName": "Green narrow gauge towns",
+		"tName": "Green town tiles, narrow gauge",
 		"imgLoc": "images/1858-OBH01/1858-green-towns-narrow.png",
 		"xStart":  20,
 		"xSize":  116,
@@ -169,7 +169,7 @@
 			{ "dups": 1, "rots": 6 }
 		] }, {
 		"type": "tile",
-		"tName": "Green mixed gauge towns",
+		"tName": "Green town tiles, mixed gauge",
 		"imgLoc": "images/1858-OBH01/1858-green-towns-mixed.png",
 		"xStart":  20,
 		"xSize":  116,
@@ -196,7 +196,7 @@
 			{ "dups": 1, "rots": 6 }
 		] }, {
 		"type": "tile",
-		"tName": "Green std gauge cities",
+		"tName": "Green city tiles, standard gauge",
 		"imgLoc": "images/1858-OBH01/1858-green-cities-standard.png",
 		"xStart":  20,
 		"xSize":  116,
@@ -215,7 +215,7 @@
 			{ "dups": 1, "rots": 1 }
 		] }, {
 		"type": "tile",
-		"tName": "Green mixed gauge cities",
+		"tName": "Green city tiles, mixed gauge",
 		"imgLoc": "images/1858-OBH01/1858-green-cities-mixed.png",
 		"xStart":  20,
 		"xSize":  116,
