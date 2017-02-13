@@ -94,8 +94,8 @@
 			{ "dups": 1, "rots": 3 }
 		] }, {
 		"type": "tile",
-		"tName": "Green track tiles, standard gauge",
-		"imgLoc": "images/1858-OBH01/1858-green-track-standard.png",
+		"tName": "Green track tiles, broad gauge",
+		"imgLoc": "images/1858-OBH01/1858-green-track-broad.png",
 		"xStart":  20,
 		"xSize":  116,
 		"xStep":  130,
@@ -109,8 +109,8 @@
 			{ "dups": 4, "rots": 6 }
 		] }, {
 		"type": "tile",
-		"tName": "Green track tiles, narrow gauge",
-		"imgLoc": "images/1858-OBH01/1858-green-track-narrow.png",
+		"tName": "Green track tiles, metre gauge",
+		"imgLoc": "images/1858-OBH01/1858-green-track-metre.png",
 		"xStart":  20,
 		"xSize":  116,
 		"xStep":  130,
@@ -141,8 +141,8 @@
 			{ "dups": 1, "rots": 3 }
 		] }, {
 		"type": "tile",
-		"tName": "Green town tiles, standard gauge",
-		"imgLoc": "images/1858-OBH01/1858-green-towns-standard.png",
+		"tName": "Green town tiles, broad gauge",
+		"imgLoc": "images/1858-OBH01/1858-green-towns-broad.png",
 		"xStart":  20,
 		"xSize":  116,
 		"xStep":  130,
@@ -155,8 +155,8 @@
 			{ "dups": 4, "rots": 6 }
 		] }, {
 		"type": "tile",
-		"tName": "Green town tiles, narrow gauge",
-		"imgLoc": "images/1858-OBH01/1858-green-towns-narrow.png",
+		"tName": "Green town tiles, metre gauge",
+		"imgLoc": "images/1858-OBH01/1858-green-towns-metre.png",
 		"xStart":  20,
 		"xSize":  116,
 		"xStep":  130,
@@ -196,8 +196,8 @@
 			{ "dups": 1, "rots": 6 }
 		] }, {
 		"type": "tile",
-		"tName": "Green city tiles, standard gauge",
-		"imgLoc": "images/1858-OBH01/1858-green-cities-standard.png",
+		"tName": "Green city tiles, broad gauge",
+		"imgLoc": "images/1858-OBH01/1858-green-cities-broad.png",
 		"xStart":  20,
 		"xSize":  116,
 		"xStep":  130,
