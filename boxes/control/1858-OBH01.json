@@ -119,7 +119,7 @@
 		"yStep":  120,
 		"tile": [
 			{ "dups": 2, "rots": 6 },
-			{ "dups": 1, "rots": 2 },
+			{ "dups": 2, "rots": 2 },
 			{ "dups": 2, "rots": 6 },
 			{ "dups": 2, "rots": 6 }
 		] }, {
