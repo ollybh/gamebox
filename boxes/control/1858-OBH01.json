@@ -340,5 +340,15 @@
 			{ "flip": true },
 			{ "flip": true }
 		]
+	} ],
+	"links": [ {
+		"link_name": "Rules",
+		"link_url":  "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhYWdhbWVzbGxjfGd4OjRiZjQ1MGYwMjk2MGQyYTI"
+		} , {
+		"link_name": "BoardGameGeek",
+		"link_url":  "https://boardgamegeek.com/boardgame/75587/1858-railways-iberia"
+		} , {
+		"link_name": "All-Aboard Games",
+		"link_url":  "https://sites.google.com/site/aagamesllc/home/ian-wilson-s-1858-the-railways-of-iberia"
 	} ]
 }
