@@ -299,7 +299,7 @@
 		"tile": [
 			{ "dups": 2, "rots": 6 },
 			{ "dups": 1, "rots": 1 },
-			{ "dups": 1, "rots": 6 },
+			{ "dups": 1, "rots": 2 },
 			{ "dups": 1, "rots": 1 }
 		] }, {
 		"type": "btok",

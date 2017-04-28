@@ -46,22 +46,6 @@
      width="744.09448"
      height="1052.3622"
      xlink:href="#path5145-7-8" />
-  <use
-     id="use5147"
-     style="stroke:#000000;stroke-width:12;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none"
-     x="0"
-     y="0"
-     width="116"
-     height="100"
-     xlink:href="#path5145" />
-  <use
-     id="use5147-5"
-     style="stroke:#000000;stroke-width:12;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none"
-     x="0"
-     y="0"
-     width="744.09448"
-     height="1052.3622"
-     xlink:href="#path5145-7" />
   <text
      x="71"
      y="91.75"
@@ -86,26 +70,29 @@
        x="76.960403"
        y="96.869049"
        id="tspan13184">A19</tspan></text>
-  <use
-     id="use5149-3"
-     style="fill:none;stroke:#ffffff;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     x="0"
-     y="0"
-     width="744.09448"
-     height="1052.3622"
-     xlink:href="#path5145-7" />
   <path
      d="M 58,100 58,50 58,0"
      id="path5145"
      style="fill:none" />
-  <use
-     id="use5149"
-     style="fill:none;stroke:#ffffff;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-     x="0"
-     y="0"
-     width="116"
-     height="100"
-     xlink:href="#path5145" />
+  <g
+     id="g3115">
+    <use
+       id="use5147"
+       style="stroke:#000000;stroke-width:12;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none"
+       x="0"
+       y="0"
+       width="116"
+       height="100"
+       xlink:href="#path5145" />
+    <use
+       id="use5149"
+       style="fill:none;stroke:#ffffff;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x="0"
+       y="0"
+       width="116"
+       height="100"
+       xlink:href="#path5145" />
+  </g>
   <path
      d="M 101.65064,74.624356 58.125002,49.783494"
      id="path5145-7"
@@ -118,6 +105,26 @@
      width="744.09448"
      height="1052.3622"
      xlink:href="#path5145-7-8" />
+  <g
+     transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,130.30127,24.770527)"
+     id="g3119">
+    <use
+       id="use3121"
+       style="stroke:#000000;stroke-width:12;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none"
+       x="0"
+       y="0"
+       width="116"
+       height="100"
+       xlink:href="#path5145" />
+    <use
+       id="use3123"
+       style="fill:none;stroke:#ffffff;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x="0"
+       y="0"
+       width="116"
+       height="100"
+       xlink:href="#path5145" />
+  </g>
   <path
      d="M 101.40064,24.942632 58,50 14.599365,75.057368"
      id="path5145-7-8"
