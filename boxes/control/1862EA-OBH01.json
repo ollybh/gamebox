@@ -171,5 +171,9 @@
 			{ "flip": true },
 			{ "flip": true }
 		]
+	} ],
+	"links": [ {
+		"link_name": "BoardGameGeek",
+		"link_url":  "https://boardgamegeek.com/boardgame/66837/1862-railway-mania-eastern-counties"
 	} ]
 }
