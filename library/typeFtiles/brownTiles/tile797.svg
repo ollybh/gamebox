@@ -30,60 +30,70 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <path
+     d="M 86.750018,99.500032 29.24998,99.50003 0.4999634,49.999995 29.249985,0.49996268 86.750023,0.49996597 115.50004,50 z"
+     id="path3846"
+     style="fill:#aa722a;fill-opacity:1;stroke:none" />
+  <text
+     x="71"
+     y="91.75"
+     id="text3852"
+     xml:space="preserve"
+     style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans"><tspan
+       id="tspan3854" /></text>
+  <text
+     x="79"
+     y="94"
+     id="text3856"
+     xml:space="preserve"
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans Bold"><tspan
+       id="tspan3858" /></text>
+  <text
+     x="77.495705"
+     y="94.999947"
+     id="text3860"
+     xml:space="preserve"
+     style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans"><tspan
+       x="77.495705"
+       y="94.999947"
+       id="tspan3864">797</tspan></text>
   <g
-     transform="translate(0.02288901,-952.35967)"
-     id="layer1">
+     transform="translate(-61.000007,35.00005)"
+     id="g3232">
     <path
-       d="M 376.67383,464.85011 29.040436,464.8501 -144.77625,163.79074 29.040466,-137.2686 l 347.633394,2e-5 173.81668,301.05935 z"
-       transform="matrix(0.16540424,0,0,0.16441952,24.42368,975.42927)"
-       id="path3846"
-       style="fill:#aa722a;fill-opacity:1;stroke:none" />
-    <text
-       x="71"
-       y="91.75"
-       transform="translate(-0.02288901,952.35967)"
-       id="text3852"
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans"><tspan
-         id="tspan3854" /></text>
-    <text
-       x="79"
-       y="94"
-       transform="translate(-0.02288901,952.35967)"
-       id="text3856"
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans Bold"><tspan
-         id="tspan3858" /></text>
-    <text
-       x="77.472816"
-       y="1047.3596"
-       id="text3860"
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans"><tspan
-         x="77.472816"
-         y="1047.3596"
-         id="tspan3864">797</tspan></text>
-    <path
-       d="m 50,27.5 a 12.5,12.5 0 1 1 -25,0 12.5,12.5 0 1 1 25,0 z"
-       transform="matrix(0.76,0,0,0.76,50.477118,946.45962)"
+       d="m 88.500007,14.99995 a 9.5,9.5 0 0 1 -19,0 9.5,9.5 0 1 1 19,0 z"
        id="path3901"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.31578946;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
-       x="70.918182"
-       y="971.44562"
+       x="70.941071"
+       y="19.085947"
        id="text3897"
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;letter-spacing:-1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans Bold"><tspan
-         x="70.918182"
-         y="971.44562"
+         x="70.941071"
+         y="19.085947"
          id="tspan3899"
          style="font-size:12px;line-height:100%;letter-spacing:0px">60</tspan></text>
+  </g>
+  <text
+     x="28.803101"
+     y="13.314857"
+     id="text3281"
+     xml:space="preserve"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans Bold"><tspan
+       x="28.803101"
+       y="13.314857"
+       id="tspan3283"
+       style="font-size:14px">Harwich</tspan></text>
+  <g
+     transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,130.30128,24.770548)"
+     id="g3215">
     <g
-       transform="matrix(-1,-1.34294e-8,1.34294e-8,-1,115.95432,2004.7194)"
+       transform="matrix(-1,-1.34294e-8,1.34294e-8,-1,115.97721,1052.3597)"
        id="g3408">
       <rect
          width="12"
@@ -101,7 +111,7 @@
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
-       transform="translate(7.4843861e-5,4.8084173e-6)"
+       transform="translate(0.02296385,-952.35967)"
        id="g3402">
       <rect
          width="12"
@@ -119,7 +129,7 @@
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(-0.5,-0.86602541,0.86602541,-0.5,-781.10341,1553.7492)"
+       transform="matrix(-0.5,-0.86602541,0.86602541,-0.5,-781.08052,601.38953)"
        id="g3255">
       <rect
          width="12"
@@ -136,24 +146,8 @@
          id="rect3987"
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
-    <path
-       d="M 376.67383,464.85011 29.040436,464.8501 -144.77625,163.79074 29.040466,-137.2686 l 347.633394,2e-5 173.81668,301.05935 z"
-       transform="matrix(0.16540424,0,0,0.16441952,24.42368,975.42927)"
-       id="tile_border"
-       style="fill:none;stroke:#000000;stroke-width:6.06343651;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <text
-       x="-868.27728"
-       y="514.70435"
-       transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)"
-       id="text3281"
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Bookman L;-inkscape-font-specification:Sans Bold"><tspan
-         x="-868.27728"
-         y="514.70435"
-         id="tspan3283"
-         style="font-size:14px">Harwich</tspan></text>
     <g
-       transform="translate(124.5,6.9999873)"
+       transform="translate(124.52289,-945.35968)"
        id="g4261">
       <rect
          width="71"
@@ -191,4 +185,8 @@
       </g>
     </g>
   </g>
+  <path
+     d="M 86.750018,99.500032 29.24998,99.50003 0.4999634,49.999995 29.249985,0.49996268 86.750023,0.49996597 115.50004,50 z"
+     id="tile_border"
+     style="fill:none;stroke:#000000;stroke-width:0.99992824;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
 </svg>
